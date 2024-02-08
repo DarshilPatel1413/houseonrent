@@ -1,0 +1,23 @@
+.card-img-top{
+    height: 65%;
+    justify-content: center;
+    border-radius: 15px;
+}
+
+.card{
+    padding: 0.2%;
+    margin: 2%;
+    height: 500px;
+    width: 29%;
+    display: inline-block;
+
+}
+
+.heading{
+    padding: 2% 2% 0% 2%;
+    margin-left: 32%;
+}
+
+.card-group{
+    height: 10%;
+}

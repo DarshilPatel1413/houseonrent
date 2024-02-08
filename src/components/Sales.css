@@ -1,0 +1,21 @@
+.box{
+    border: 1px solid black;
+    width: 23%;
+    padding: 2%;
+    height: auto;
+    margin: 9% 3% 3% 6%;
+    box-shadow: 2px 2px 5px black;
+    display:inline-block;
+}
+
+.box:hover{
+    background: rgb(230, 213, 192);
+    color: black;
+   
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(241, 252, 252);
+}
